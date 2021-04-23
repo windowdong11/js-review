@@ -1,3 +1,4 @@
+console.log("[condition]")
 const a = Math.floor(Math.random() * 10)
 
 if(a == 1){

@@ -1,3 +1,4 @@
+console.log("[operator]")
 // numeric, 산술
 console.log(1 + 2)
 console.log(1 - 2)
